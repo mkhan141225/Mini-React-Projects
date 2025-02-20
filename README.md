@@ -1,6 +1,6 @@
 # 🚀 30-Day React Mini Project Challenge 🚀
-
-## Project List
+## Output link- https://mkhan141225.github.io/Mini-React-Projects/
+### Project List
 
 Below is the list of projects I've worked on
 
